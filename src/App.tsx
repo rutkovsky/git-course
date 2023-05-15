@@ -10,6 +10,8 @@ function App() {
         <p>
           New title
           New title1
+          New title2
+          New title3
         </p>
         <a
           className="App-link"
